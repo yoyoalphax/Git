@@ -7,3 +7,4 @@ Creating a new branch is quick AND simple.
 DEV branch.
 Bug fix.
 Master
+3-1Edit.
